@@ -6,29 +6,29 @@
     "email":"mauro.henrique613@gmail.com",
     "details": {
         "tools" : [{
-            "title" : "java",
-            "icon" : "todo"
+            "title" : "Css",
+            "icon" : "https://raw.githubusercontent.com/mauro-n/api-mauro-n/main/profile/icons/css.png"
         }, {
-            "title" : "java",
-            "icon" : "todo"
+            "title" : "Git",
+            "icon" : "https://raw.githubusercontent.com/mauro-n/api-mauro-n/main/profile/icons/git.png"
         }, {
-            "title" : "java",
-            "icon" : "todo"
+            "title" : "Html",
+            "icon" : "https://raw.githubusercontent.com/mauro-n/api-mauro-n/main/profile/icons/html.png"
         }, {
-            "title" : "java",
-            "icon" : "todo"
+            "title" : "Java",
+            "icon" : "https://raw.githubusercontent.com/mauro-n/api-mauro-n/main/profile/icons/java.png"
         }, {
-            "title" : "java",
-            "icon" : "todo"
+            "title" : "javascript",
+            "icon" : "https://raw.githubusercontent.com/mauro-n/api-mauro-n/main/profile/icons/js.png"
         }, {
-            "title" : "java",
-            "icon" : "todo"
+            "title" : "PostgreSQL",
+            "icon" : "https://raw.githubusercontent.com/mauro-n/api-mauro-n/main/profile/icons/pg.png"
         }, {
-            "title" : "java",
-            "icon" : "todo"
+            "title" : "React",
+            "icon" : "https://raw.githubusercontent.com/mauro-n/api-mauro-n/main/profile/icons/react.png"
         }, {
-            "title" : "java",
-            "icon" : "todo"
+            "title" : "SpringBoot",
+            "icon" : "https://raw.githubusercontent.com/mauro-n/api-mauro-n/main/profile/icons/springBoot.png"
         }],
         "languages" : [{
             "title" : "Português",
@@ -39,7 +39,7 @@
         }],
         "projects" : [{
             "title" : "Pokedex implementada com JS, HTML e CSS",
-            "url" : "todo"
+            "url" : "https://github.com/mauro-n/pokedex"
         }]
     }
 }
