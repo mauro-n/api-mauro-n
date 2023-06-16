@@ -1,0 +1,45 @@
+{
+    "name": "Mauro Henrique",
+    "job":"Fullstack Developer",
+    "address":"Fortaleza-CE",
+    "tel":"+55(85)985975710",
+    "email":"mauro.henrique613@gmail.com",
+    "details": {
+        "tools" : [{
+            "title" : "java",
+            "icon" : "todo"
+        }, {
+            "title" : "java",
+            "icon" : "todo"
+        }, {
+            "title" : "java",
+            "icon" : "todo"
+        }, {
+            "title" : "java",
+            "icon" : "todo"
+        }, {
+            "title" : "java",
+            "icon" : "todo"
+        }, {
+            "title" : "java",
+            "icon" : "todo"
+        }, {
+            "title" : "java",
+            "icon" : "todo"
+        }, {
+            "title" : "java",
+            "icon" : "todo"
+        }],
+        "languages" : [{
+            "title" : "Português",
+            "level" : "Nativo"
+        }, {
+            "title" : "Inglês",
+            "level" : "Avançado"
+        }],
+        "projects" : [{
+            "title" : "Pokedex implementada com JS, HTML e CSS",
+            "url" : "todo"
+        }]
+    }
+}
