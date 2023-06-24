@@ -1,0 +1,57 @@
+[
+    {
+        "paciente_id": 1,
+        "nome": "Huguinho",
+        "cpf": "61125534687",
+        "email": "Huguinho@gmail.com",
+        "endereco": null,
+        "telefone": "40028922",
+        "created_at": null,
+        "consulta": [
+            {
+                "id": 1,
+                "data": "2023-06-10",
+                "horario": "16:00:00",
+                "status": "agendada",
+                "url": "http://localhost:8080/consulta/1"
+            },
+            {
+                "id": 2,
+                "data": "2023-06-10",
+                "horario": "16:00:00",
+                "status": "agendada",
+                "url": "http://localhost:8080/consulta/2"
+            }
+        ]
+    },
+    {
+        "paciente_id": 2,
+        "nome": "Zezinho",
+        "cpf": "4455555114789",
+        "email": "Zezinho@gmail.com",
+        "endereco": null,
+        "telefone": "85587122",
+        "created_at": null,
+        "consulta": []
+    },
+    {
+        "paciente_id": 3,
+        "nome": "Luisinho",
+        "cpf": "888555222114",
+        "email": "Luisinho@gmail.com",
+        "endereco": null,
+        "telefone": "4745222",
+        "created_at": null,
+        "consulta": []
+    },
+    {
+        "paciente_id": 4,
+        "nome": "Tio Patinhas",
+        "cpf": "333333333",
+        "email": "TioP@bol.com",
+        "endereco": null,
+        "telefone": "succ",
+        "created_at": null,
+        "consulta": []
+    }
+]

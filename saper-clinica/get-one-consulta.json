@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "data": "2023-06-10",
+    "horario": "16:00:00",
+    "status": "agendada",
+    "paciente_id": 1,
+    "recepcionista_id": 3,
+    "medico_id": 2,
+    "chegada_at": null,
+    "atendimento_at": null,
+    "created_at": "2023-06-24T17:53:23.200034",
+    "observacao": null
+}

@@ -1,0 +1,33 @@
+[
+    {
+        "id": 2,
+        "nome": "Mock Vagner",
+        "username": "admin-medic",
+        "email": "admin@clinica.com",
+        "crm": "CE545594",
+        "telefone": "85985999999",
+        "especialidade": "Geral",
+        "created_at": "2023-06-24T17:52:56.209848",
+        "role": [
+            {
+                "authority": "ROLE_MEDICO"
+            }
+        ],
+        "consultas": [
+            {
+                "id": 1,
+                "data": "2023-06-10",
+                "horario": "16:00:00",
+                "status": "agendada",
+                "url": "http://localhost:8080/consulta/1"
+            },
+            {
+                "id": 2,
+                "data": "2023-06-10",
+                "horario": "16:00:00",
+                "status": "agendada",
+                "url": "http://localhost:8080/consulta/2"
+            }
+        ]
+    }
+]

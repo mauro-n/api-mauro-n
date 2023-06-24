@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nome": "Ultra Saude",
+        "is_active": true,
+        "created_at": null
+    },
+    {
+        "id": 2,
+        "nome": "DayCare Vovozinhas",
+        "is_active": false,
+        "created_at": null
+    }
+]

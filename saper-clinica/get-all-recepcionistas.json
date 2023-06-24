@@ -1,0 +1,16 @@
+[
+    {
+        "id": 3,
+        "nome": "Mock Andreza",
+        "username": "admin-recepcionista",
+        "email": "admin@clinica.com",
+        "created_at": "2023-06-24T17:52:56.33386"
+    },
+    {
+        "id": 4,
+        "nome": "Mock Annabell",
+        "username": "recepcionista1",
+        "email": "facebook@hotmail.com",
+        "created_at": "2023-06-24T17:57:18.293438"
+    }
+]

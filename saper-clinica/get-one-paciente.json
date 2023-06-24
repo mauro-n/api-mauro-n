@@ -1,0 +1,25 @@
+{
+    "paciente_id": 1,
+    "nome": "Huguinho",
+    "cpf": "61125534687",
+    "email": "Huguinho@gmail.com",
+    "endereco": null,
+    "telefone": "40028922",
+    "created_at": null,
+    "consulta": [
+        {
+            "id": 1,
+            "data": "2023-06-10",
+            "horario": "16:00:00",
+            "status": "agendada",
+            "url": "http://localhost:8080/consulta/1"
+        },
+        {
+            "id": 2,
+            "data": "2023-06-10",
+            "horario": "16:00:00",
+            "status": "agendada",
+            "url": "http://localhost:8080/consulta/2"
+        }
+    ]
+}
