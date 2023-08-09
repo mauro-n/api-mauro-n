@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "price": "1000000",
+        "location": "Aldeota"
+    },
+    {
+        "id": "2",
+        "price": "1000000",
+        "location": "Rio de Janeiro"
+    },
+    {
+        "id": "3",
+        "price": "1000000",
+        "location": "Porto Velho"
+    },
+    {
+        "id": "4",
+        "price": "1000000",
+        "location": "Caucaia"
+    },
+    {
+        "id": "5",
+        "price": "1000000",
+        "location": "Juazeiro do Norte"
+    },
+    {
+        "id": "6",
+        "price": "1000000",
+        "location": "Rondônia"
+    },
+    {
+        "id": "7",
+        "price": "1000000",
+        "location": "Porto Alegre"
+    },
+    {
+        "id": "8",
+        "price": "1000000",
+        "location": "Pernambuco"
+    },
+    {
+        "id": "9",
+        "price": "1000000",
+        "location": "Califórnia"
+    },
+    {
+        "id": "10",
+        "price": "1000000",
+        "location": "Mato Grosso"
+    },
+    {
+        "id": "11",
+        "price": "1000000",
+        "location": "São Paulo"
+    },
+    {
+        "id": "12",
+        "price": "1000000",
+        "location": "Sergipe"
+    },
+    {
+        "id": "13",
+        "price": "1000000",
+        "location": "Paracuru"
+    },
+    {
+        "id": "14",
+        "price": "1000000",
+        "location": "Amazonas"
+    }
+]
